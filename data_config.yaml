@@ -1,0 +1,6 @@
+path: C:\Users\USER\Documents\Projects\Car Detection\
+train: Car_Dataset\train
+val: Car_Dataset\val
+
+names:
+  0: Car
